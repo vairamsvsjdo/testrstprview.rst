@@ -73,3 +73,10 @@ get_variables method returns a list of variables to use within robot scripts. Us
 Use Python naming conventions defined in PEP8
 
 
+.. code:: javascript
+
+  function helloWorld() {
+    return 'hello world';
+  }
+
+3.4 Test embedded script formatting
